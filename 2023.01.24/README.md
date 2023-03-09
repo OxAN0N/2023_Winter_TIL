@@ -5,3 +5,5 @@
     - 간의 와이어프레임 작성
     - 페이지 UI 구현
 - Firebase를 이용한 AutoML 기능 등 리서치
+- gitHub repository 구성
+    - https://github.com/OxAN0N/vary-recycle
